@@ -1,0 +1,61 @@
+.c{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.im67{
+    height: 200px;
+    width: 300px;
+}
+.main{
+    display: flex;
+    gap: 50px;
+}
+p{
+    font-family: 'Caveat', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Urbanist', sans-serif;
+}
+button{
+    margin: 5px;
+    display: flex;
+
+    
+}
+.type1{
+    
+}
+.type{
+    display: flexbox ;
+    align-items: right;
+}
+.m{
+    display:flex;
+    gap: 20px;
+    margin:  20px 0px;
+
+    
+}
+.i1{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 3%;
+}
+.i1 > img{
+    width: 200px;
+}
+.i2{
+    display: flex;
+    flex-direction: column;
+}
+.i2 > img{
+    width: 200px;
+}
+p{
+    margin: 12px;
+}
